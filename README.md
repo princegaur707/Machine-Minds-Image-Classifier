@@ -1,6 +1,6 @@
 ## Machine-Minds-Image-Classifier
 
-## Team Members 💻
+## Team
 
 1. <a href="https://github.com/IshjotSingh97">Ishjot Singh</a>
 2. <a href="https://github.com/princegaur707">Prince Gaur</a>
